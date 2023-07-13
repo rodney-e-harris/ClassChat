@@ -1,5 +1,5 @@
 # ClassChat
-ClassChat is a simple C#/.Net system designed to be used for communications and discussions among students in a class. The system utilizes Client–Server Communication using TCP/IP, Multi-Thread Communication and Client-Client Communication to transmit encrypted messages.
+ClassChat is a C#/.Net system designed to be used for communications and discussions among students in a class. The system utilizes Client–Server Communication using TCP/IP, Multi-Thread Communication and Client-Client Communication to transmit encrypted messages.
 
 This project was created using the JetBrains Rider 2022.2.2 IDE and I used C# 10 and .NET 6.0.
 To run the program with dotnet, you would need to install the proper dotnet SDK from the Microsoft 
